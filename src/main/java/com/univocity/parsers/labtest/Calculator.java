@@ -1,6 +1,6 @@
 package com.univocity.parsers.labtest;
 
-public static class Calculator {
+public class Calculator {
     public double add(double a, double b) {
         return a + b;
     }
